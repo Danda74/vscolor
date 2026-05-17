@@ -39,7 +39,7 @@ export function Header() {
           href="#kontakt"
           className="hidden min-h-11 items-center justify-center rounded-full bg-slate-950 px-4 text-sm font-black text-white shadow-lg shadow-slate-950/10 transition hover:-translate-y-0.5 hover:bg-cyan-800 sm:inline-flex sm:px-5"
         >
-          Kde se schováváme
+          Kde nás najdete
         </a>
 
         <button

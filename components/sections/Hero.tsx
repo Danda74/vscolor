@@ -17,7 +17,7 @@ export function Hero() {
             Barvy, laky a drogerie, které probudí chuť tvořit
           </h1>
           <p className="mt-6 max-w-2xl text-xl font-semibold leading-8 text-slate-800 sm:text-2xl">
-            Kamenná prodejna VS COLOR ve Frýdlantě nad Ostravicí.
+            Navštivte nás ve Frýdlantě nad Ostravicí.
           </p>
           <p className="mt-4 max-w-2xl text-base leading-7 text-slate-600 sm:text-lg">
             Zastavte se pro odstín, štětec, váleček, lak, čisticí prostředek
