@@ -10,7 +10,7 @@ export function Header() {
             src="/logo-vscolor.png"
             alt="VS COLOR"
             width={200}
-            height={6 2}
+            height={62}
             priority
             style={{ width: "auto", height: "auto" }}
             className="h-auto w-[200px] min-w-[200px] sm:w-[220px]"
