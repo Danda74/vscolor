@@ -5,6 +5,10 @@ export const metadata: Metadata = {
   title: "VS COLOR | Barvy, laky a drogerie ve Frýdlantě nad Ostravicí",
   description:
     "Moderní prezentační web kamenné prodejny VS COLOR ve Frýdlantě nad Ostravicí. Barvy, laky, drogerie a potřeby pro domácí renovace.",
+  robots: {
+    index: false,
+    follow: false,
+  },
 };
 
 export default function RootLayout({
