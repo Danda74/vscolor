@@ -10,7 +10,7 @@ export function Header() {
             src="/logo-vscolor.png"
             alt="VS COLOR"
             width={200}
-            height={62}
+            height={6 2}
             priority
             style={{ width: "auto", height: "auto" }}
             className="h-auto w-[200px] min-w-[200px] sm:w-[220px]"
@@ -34,7 +34,7 @@ export function Header() {
           href="#kontakt"
           className="hidden min-h-11 items-center justify-center rounded-full bg-slate-950 px-4 text-sm font-black text-white shadow-lg shadow-slate-950/10 transition hover:-translate-y-0.5 hover:bg-cyan-800 sm:inline-flex sm:px-5"
         >
-          Kde nás najdete
+          Kde se schováváme
         </a>
       </div>
     </header>
