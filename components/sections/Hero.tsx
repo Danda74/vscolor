@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export function Hero() {
   return (
-    <section className="paint-sheen relative overflow-hidden pt-24">
+    <section className="paint-sheen relative overflow-hidden pt-32 sm:pt-36">
       <div className="soft-grid absolute inset-0 opacity-45" />
       <div className="absolute left-6 top-28 h-24 w-24 rounded-full bg-rose-400/28 blur-2xl sm:left-20" />
       <div className="absolute bottom-20 right-8 h-36 w-36 rounded-full bg-cyan-400/25 blur-2xl" />
