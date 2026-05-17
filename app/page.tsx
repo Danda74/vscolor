@@ -1,5 +1,6 @@
 import { Benefits } from "@/components/sections/Benefits";
 import { Contact } from "@/components/sections/Contact";
+import { CookieBanner } from "@/components/CookieBanner";
 import { Faq } from "@/components/sections/Faq";
 import { Footer } from "@/components/sections/Footer";
 import { Gallery } from "@/components/sections/Gallery";
@@ -20,6 +21,7 @@ export default function Home() {
       <Faq />
       <Contact />
       <Footer />
+      <CookieBanner />
     </main>
   );
 }
