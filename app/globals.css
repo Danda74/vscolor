@@ -18,6 +18,7 @@
 
 html {
   scroll-behavior: smooth;
+  scroll-padding-top: 10px;
 }
 
 body {
@@ -35,6 +36,10 @@ a {
 ::selection {
   background: #ffe45c;
   color: #111827;
+}
+
+section[id] {
+  scroll-margin-top: 60px;
 }
 
 .soft-grid {
